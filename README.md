@@ -37,7 +37,7 @@ This is a personal project for the community of Abu Road. If you're a developer,
 
 📍 Location: Abu Road, Rajasthan
 
-🌐 Website (https://abufoodz.vercel.app/)
+🌐 Website (https://abu-foodzz.vercel.app/)
 
 
 Visit Now : 
